@@ -41,31 +41,31 @@ const neighborhoodsArr = [
       {
         eventID: 1,
         eventName: 'Markowicz Gallery',
-        eventImage: './images/design-district-1',
+        eventImage: 'https://lh3.googleusercontent.com/pw/AM-JKLVqtNNSQj9h329CWyHde_4sort5OKHoo5dgxIlMUzkoZrZcFx1DPZJjSuGAIhyNFiyuTqcVC83RK_8OGxxYyibsY8FP3v5vMWrMX1553xSQ7Gsz7lEMf5hgrd9hCU9juwHWg-JSGJNt-tlykxZOEw_m=w485-h476-no?authuser=0',
         eventLink: 'https://markowiczfineart.com/'
       },
       {
         eventID: 2,
         eventName: 'Swampspace',
-        eventImage: './images/design-district-1',
+        eventImage: 'https://lh3.googleusercontent.com/pw/AM-JKLVf4tJ6DeYwPE5XzqMh13IShVh32uNK3z1sepfh0izoSDhn-5LhOQyJhA4rJTxmKXEK7FzJEWe3iL3tWd9W8fOPjeOwuHRYu0Ijn4qjH2tNRETe9XKkD_4aLxm_wQn4dKSc4hi7AR9w1Z8GL2Ebaknb=w1019-h943-no?authuser=0',
         eventLink: 'https://www.miamidesigndistrict.net/listing/281/swampspace/'
       },
       {
         eventID: 3,
         eventName: 'Opera Gallery',
-        eventImage: './images/design-district-3',
-        eventLink: 'https://www.operagallery.com/contact/miami'
+        eventImage: 'https://lh3.googleusercontent.com/pw/AM-JKLX2v9DpF7OsHWA0EX_DfnP4Wg65FpL75UIGsq7H6YxDNFzncplzGXtwdyKXWP7kV_-BRplBqIoMbODWSdhQYuMfTgLgh96Zjh51yDvQy-u3vzV5wHazjuUueuXQGhpp0OtM3yG2KOlkKQk4XB4iiNwg=s443-no?authuser=0',
+        eventLink: "https://www.operagallery.com/contact/miami"
       },
       {
         eventID: 4,
         eventName: 'De La Cruz Collection',
-        eventImage: './images/design-district-11',
+        eventImage: 'https://lh3.googleusercontent.com/pw/AM-JKLV7kghc8LWh6CeWCL7XLhVLTtH5NHevmCbbKC0FDrehfAgNcYwB-sZWWuAGo__Jp71W3Gtj8UHhCFY_sjyLiDVOz9hLQ4m1Pn0SH1_JeGXw9jxH6I3iRkb06J0BaLK3JxnOiDlqs6cSB4-9HCBiddZg=s894-no?authuser=0',
         eventLink: 'https://www.delacruzcollection.org/'
       },
       {
         eventID: 5,
         eventName: 'Black Tower Gallery',
-        eventImage: './images/design-district-4',
+        eventImage: 'https://lh3.googleusercontent.com/pw/AM-JKLXTzxuHKuIH1i0o5c1JunLAl1TYZ7tuTibMz18t8bEJX2sUyU3seRO7HHvrzOBF-_mcnIVzQy88-DfAisCeXLEza3PnisfEpWcersDg_muJ7GAPH28i2ho_16uaZtzJ9kg7cfOtrIAm6ptzvIIqzxXD=s692-no?authuser=0',
         eventLink: 'https://www.blacktowergallery.com/'
       },
       
@@ -74,31 +74,31 @@ const neighborhoodsArr = [
       {
         placeID: 1,
         placeName: 'Institute of Contemporary Art',
-        placeImage: './images/design-district-5',
+        placeImage: 'https://lh3.googleusercontent.com/pw/AM-JKLXn0Mupx3dvyY11zD6EwotWts8rS7XueSXTgdQ_SYgh8s258dPjIXp_tMbjINN6EuwGzgkUbEOjvfekh4z_QRX040wsv1JiazbAmOUGsfG_WzkRl9FG5y4u6VyvXW0oXvB5vV4aFLjW8AMVWeMh6KdF=s887-no?authuser=0',
         placeLink: 'https://icamiami.org/'
       },
       {
         placeID: 2,
         placeName: 'Fly\'s Eye Dome',
-        placeImage: './images/design-district-6',
+        placeImage: 'https://lh3.googleusercontent.com/pw/AM-JKLWv0dVYdbz7pzr0BmUZum1GrEIJCIQW6MC7VDlISTo3ZXJwwFUZdecyzcYvOuVBssC9G8ElhkEDLQr_U1xqvvV9WyvQ8i6gQHgzFGkMftYieAfqFyCsvLWjEF2TCoqXKRxC7JfYy4Yfqy2HgSqz1NrG=s354-no?authuser=0',
         placeLink: 'https://www.miamidesigndistrict.net/listing/395/buckminster-fuller-flys-eye-dome-1979802014/'
       },
       {
         placeID: 3,
         placeName: 'The Arsenale',
-        placeImage: './images/design-district-12',
+        placeImage: 'https://lh3.googleusercontent.com/pw/AM-JKLUnS6mL7ubwshjY0WzdgrewEICekp26Wdhjx2M64rjhF5wObspxWI4eJEowH54QqCcQY6F-2eFelTb-VezBiIZjRsVaUofdYW3HQQ25fO-MYa4av9I-ib1bc3TwQdgnLBFLQKvpvu4YfXEoeyUOor6x=s600-no?authuser=0',
         placeLink: 'https://thearsenale.com/'
       },
       {
         placeID: 4,
         placeName: 'The Garage',
-        placeImage: './images/design-district-7',
+        placeImage: 'https://lh3.googleusercontent.com/pw/AM-JKLUwhHexJSDU6chRr8fb4xhrrViVYv_kqgB6QHaL5HGdqedsc_uN98pohC7smC5FruSbH4uksCjP6A1QAlpfU5UMiP29EOMLUhI_7MQji7O1FxW2A1Rjbbg9Fn8twvL_CnxQFuIStcNhdZecoI4xZUit=s888-no?authuser=0',
         placeLink: 'https://www.miamidesigndistrict.net/listing/739/museum-garage/'
       },
       {
         placeID: 5,
         placeName: 'Haitian Heritage Museum',
-        placeImage: './images/design-district-13',
+        placeImage: 'https://lh3.googleusercontent.com/pw/AM-JKLWK-4Ng5YR9Ymoh8PK8r7TsVyFveuHZHTfWI1H_u_Tp_W68mYtHy-2GBnh8-Hbzn3XKUg10EXbrNzASeumQw08DC7AELjGS4-Hy1DvyoX1AmUHvdy18Y-sodPK-IJDbZpCMKKLmTb5__J44RLbJDN3r=s419-no?authuser=0',
         placeLink: 'http://www.haitianheritagemuseum.org/'
       },
     ]
