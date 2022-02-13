@@ -1,0 +1,79 @@
+body {
+  box-sizing:border-box;
+}
+
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(124.51deg, rgba(23, 38, 77, 0.8) 9.37%, rgba(61, 138, 152, 0.8) 26.46%, rgba(125, 171, 165, 0.8) 40.04%, rgba(248, 223, 182, 0.8) 59.32%, rgba(240, 170, 118, 0.8) 78.16%, rgba(221, 78, 55, 0.8) 93.5%);
+}
+.content {
+  width: 1070px;
+  padding: 30px;
+  margin: 0 auto;
+}
+.main-title {
+  text-align: center;
+  
+}
+.map {
+  height: 700px;
+  background-image: url('./temp_map.png');
+  background-size: cover;
+  border-radius: 50px;
+  margin: 0 auto;
+  max-width: 90%;
+  overflow: auto;
+}
+.main-body-container {
+  width: 100%;
+  max-width: 100%;
+}
+.map a {
+  width: fit-content;
+  height: fit-content;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.poi-indicator {
+  position: absolute;
+  width: fit-content;
+  color: inherit;
+  padding: 10px;
+}
+.material-icons-two-tone {
+  font-family: 'Material Icons';
+}
+.star-icon {
+  color: #F0AA76;
+  -webkit-text-stroke: 2px #fff;
+  font-size: 60px;
+}
+.poi-detail {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.poi-detail img {
+  width: 175px;
+  height: 100px;
+}
+.poi-detail h5 {
+  margin: 0;
+  padding: 5px;
+  font-size: 1rem;
+  font-weight: normal;
+  width: 100%;
+  text-align: center;
+}
+
+.poi-1 {
+  left: 49%;
+  top: 560px;
+}
+.poi-2 {
+  left: 48%;
+  top: 290px;
+}
